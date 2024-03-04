@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Kodluyoruz Node.js Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
 
-![alt text](ilkrepo.png)
+![alt text](repo.png)
 
 ## Installation
 
